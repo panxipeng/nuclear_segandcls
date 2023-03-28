@@ -100,9 +100,6 @@ Segmentation and Classification:
 - [CoNSeP checkpoint](https://pan.baidu.com/s/1zcW8IT-S2t49P3WdKfe63A?pwd=fdva)
 - [MoNuSAC checkpoint](https://pan.baidu.com/s/1u4n_N2eTdKJNlPLO1EaTjg?pwd=75hn)
 
-Access the entire checkpoint directory, along with a README on the filename description [here](https://drive.google.com/drive/folders/17IBOqdImvZ7Phe0ZdC5U1vwPFJFkttWp?usp=sharing).
-
-If any of the above checkpoints are used, please ensure to cite the corresponding paper.
 
 ### Usage and Options
 
