@@ -7,3 +7,6 @@ This is the official PyTorch implementation of **SMILE: Cost-sensitive Multi-tas
 - [MoNuSAC](https://ieeexplore.ieee.org/abstract/document/8880654)
 
 Links to the checkpoints can be found in the inference description below.
+
+
+![](docs/diagram.png)
