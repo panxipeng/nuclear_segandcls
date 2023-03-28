@@ -60,7 +60,7 @@ from docopt import docopt
 if __name__ == '__main__':
     sub_cli_dict = {'tile': tile_cli}
     args = docopt(__doc__, help=False, options_first=True,
-                  version='HoVer-Net Pytorch Inference v1.0')
+                  version='SMILE-Net Pytorch Inference v1.0')
     sub_cmd = args.pop('<command>')
     sub_cmd_args = args.pop('<args>')
 
