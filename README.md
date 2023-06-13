@@ -152,7 +152,7 @@ Take a look on how to utilise the output in `examples/usage.ipynb` [here](https:
 ## Datasets
 
 Download the CoNSeP dataset as used in our paper from [this link](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/hovernet/). <br />
-Download the MoNuSAC datsets from [this link](https://monusac-2020.grand-challenge.org/Data/).  <br />
+Download the MoNuSAC datsets from [this link](https://monusac-2020.grand-challenge.org).  <br />
 
 Ground truth files are in `.mat` format, refer to the README included with the datasets for further information. 
 
