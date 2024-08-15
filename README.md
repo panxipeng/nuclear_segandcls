@@ -97,8 +97,8 @@ Output: <br />
 Model weights obtained from training SMILE as a result of the above instructions can be supplied to process input images. 
 
 Segmentation and Classification:
-- [CoNSeP checkpoint](https://pan.baidu.com/s/1zcW8IT-S2t49P3WdKfe63A?pwd=fdva)
-- [MoNuSAC checkpoint](https://pan.baidu.com/s/1u4n_N2eTdKJNlPLO1EaTjg?pwd=75hn)
+- [CoNSeP checkpoint](https://drive.google.com/file/d/1lhDXb7Qrmi0plzCb9MK1SPU78f1cqgFR/view?usp=drive_link)
+- [MoNuSAC checkpoint](https://drive.google.com/file/d/1ryzSZQ2nJB4lpAdj_4PGzQBTr-zzLZBR/view?usp=drive_link)
 
 
 ### Usage and Options
